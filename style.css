@@ -1,0 +1,73 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8ef2e8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Styling for all h1 tags */
+h1 {
+    text-align: center;
+    color: red;
+}
+
+/* Styling for all paragraphs */
+p {
+    width: 800px;
+    margin: 0 auto;
+    color: darkcyan;
+}
+
+/* Specific styling for elements with the id 'main' */
+#main {
+    color: brown;
+    background-color: beige;
+}
+
+/* Styling for class 'A' */
+.A {
+    border: 5px solid black;
+    padding: 0 10px 20px 30px;
+    background-color: azure;
+}
+
+/* Styling for h2 and h3 tags */
+h2, h3 {
+    font-family: 'Georgia', serif;
+}
+
+/* Styling for navigation list */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Styling for individual navigation items */
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+/* Styling for navigation links */
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Styling for images */
+img {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #888;
+}
+
+/* Styling for the footer */
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #0077b6;
+    color: white;
+}
