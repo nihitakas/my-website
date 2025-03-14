@@ -24,7 +24,7 @@ p {
 /* Specific styling for elements with the id 'main' */
 #main {
     color: brown;
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
 }
 
 /* Styling for class 'A' */
@@ -68,6 +68,6 @@ img {
 footer {
     margin-top: 20px;
     padding: 10px;
-    background-color: #edeaad;
+    background-color: #3616c6;
     color: white;
 }
