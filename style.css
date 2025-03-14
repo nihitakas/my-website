@@ -11,14 +11,14 @@ body {
 /* Styling for all h1 tags */
 h1 {
     text-align: center;
-    color: red;
+    color: rgb(1, 0, 0);
 }
 
 /* Styling for all paragraphs */
 p {
     width: 800px;
     margin: 0 auto;
-    color: darkcyan;
+    color: rgb(23, 7, 80);
 }
 
 /* Specific styling for elements with the id 'main' */
@@ -68,6 +68,6 @@ img {
 footer {
     margin-top: 20px;
     padding: 10px;
-    background-color: #0077b6;
+    background-color: #edeaad;
     color: white;
 }
